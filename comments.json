@@ -10,23 +10,19 @@
         "text": "React is ***great***! Awesome!"
     },
     {
-        "id": "1452369836540",
-        "author": "mike",
-        "text": "Hi!"
+        "id": 1453666134816,
+        "author": "Mikhail",
+        "text": "Hello, kids!"
     },
     {
-        "id": "1452370161658",
-        "author": "qwe",
-        "text": "123"
+        "id": "1453666316699",
+        "author": "qw",
+        "text": "qwe"
     },
     {
-        "id": 1453665894280,
-        "author": "q",
-        "text": "1"
-    },
-    {
-        "id": 1453665904177,
-        "author": "Mike",
-        "text": "Hi"
+        "id": 1453666325491,
+        "author": "1111",
+        "text": "22222",
+        "id": "1453666325487"
     }
 ]
